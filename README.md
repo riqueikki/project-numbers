@@ -5,10 +5,10 @@ Um projeto interativo desenvolvido com HTML, CSS e JavaScript, que permite ao us
 ✔ Interface moderna estilo dashboard
 ✔ Seleção de múltiplas linguagens:
 
-JavaScript
-Python
-Java
-C#
+JavaScript;
+Python;
+Java;
+C#;
 
 ✔ Verificação instantânea de número par ou ímpar
 ✔ Exibição do código correspondente à linguagem escolhida
